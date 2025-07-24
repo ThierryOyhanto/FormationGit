@@ -1,2 +1,4 @@
-def main();
-    print("Hello, World!")
+def main():
+    message = "Hello, World!"
+    print(message)
+    return message
